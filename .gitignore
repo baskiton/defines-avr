@@ -1,0 +1,10 @@
+.idea/
+.pio/
+.vscode/
+include/
+lib/
+
+!.gitattributes
+!.gitignore
+
+platformio.ini

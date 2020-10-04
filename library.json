@@ -1,6 +1,6 @@
 {
     "name": "Defines",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "This library contains some of the basic definitions that my other libraries need to work.",
     "keywords": "avr, baskiton",
     "repository":
